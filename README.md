@@ -1,2 +1,2 @@
 # ajax
-ajax学习历程
+自学ajax的练习xiangmu
